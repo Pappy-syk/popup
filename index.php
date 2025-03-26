@@ -5,6 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Countdown to Election</title>
     <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
+    <link rel="stylesheet" href="./style.css">
 </head>
 <body>
 
@@ -19,8 +21,10 @@
                     <div id="countdown-number" class="countdown-number">0</div>
                 </div>
             </a>
-            <a class="close-button" href="/">Close</a>
+            <a class="arrow" href="/"></a>
         </div>
+        <!-- partial:index.partial.html -->
+
     </div>
 
     <script src="script.js" defer></script>
