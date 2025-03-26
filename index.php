@@ -19,7 +19,7 @@
                     <div id="countdown-number" class="countdown-number">0</div>
                 </div>
             </a>
-            <span id="close-popup" class="close-btn">×</span>
+            <a class="close-button" href="/">Close</a>
         </div>
     </div>
 
