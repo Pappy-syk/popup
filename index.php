@@ -21,9 +21,9 @@
                     <div id="countdown-number" class="countdown-number">0</div>
                 </div>
             </a>
-            <a class="arrow" href="/"></a>
+            <span id="close-popup" class="close-btn">×</span>
         </div>
-        <!-- partial:index.partial.html -->
+
 
     </div>
 

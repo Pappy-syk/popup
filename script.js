@@ -16,7 +16,7 @@ window.addEventListener('click', (event) => {
 })
 
 // วันที่เลือกตั้ง
-const electionDate = new Date('05/20/2025'); // วันที่เลือกตั้ง
+const electionDate = new Date('05/11/2025'); // วันที่เลือกตั้ง
 
 // ฟังก์ชันดึงเวลาไทยจาก API
 async function fetchThaiTime() {
