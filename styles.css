@@ -11,7 +11,7 @@ body {
     left: 0;
     width: 100vw; /* เต็มความกว้างของหน้าจอ */
     height: 100vh; /* เต็มความสูงของหน้าจอ */
-    background: rgba(255, 0, 0, 0.7); /* ฉากหลังสีดำโปร่งแสง */
+    background: rgba(48, 47, 47, 0.7); /* ฉากหลังสีดำโปร่งแสง */
     display: flex;
     justify-content: center;
     align-items: center;
